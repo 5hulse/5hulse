@@ -1,4 +1,5 @@
-PhD Student in Oxford's Chemistry Department, interested in optimisation in NMR Spectroscopy.
+Reasearch Associate in the Johnson Lab, at CUNY's ASRC.
+Work in (NMR Spectroscopy ∩ software)
 
 <!---
 5hulse/5hulse is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
